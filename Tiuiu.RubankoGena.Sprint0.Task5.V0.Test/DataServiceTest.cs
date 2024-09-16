@@ -20,7 +20,7 @@ namespace Tiuiu.RubankoGena.Sprint0.Task5.V0.Test
             }
             public void CheckedDivisionValid()
             {
-                Assert.AreEqual(3, DataService.Division(9, 3));
+                Assert.Arequal(3, DataService.Division(9, 3));
             }
         }
     }
