@@ -9,7 +9,7 @@ namespace Tiuiu.RubankoGena.Sprint0.Task6.V0
 
             Console.WriteLine("Сумма элементов массива = " + DataService.AdditionArray(numsArray));
             Console.WriteLine("Разность элементов массива = " + DataService.SubtractionArray(numsArray));
-            Console.WriteLine("Произведение элементов массива = " + DataService.MultiplicationArray(numsArray));
+            Console.WriteLine("Произведение элементов масива = " + DataService.MultiplicationArray(numsArray));
             Console.ReadKey();
         }
     }
